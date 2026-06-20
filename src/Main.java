@@ -17,8 +17,8 @@ public class Main {
         }
         System.out.println("------------------------------------");
         System.out.println("Циклы, задача № 4");
-        for (int i = 10; i >= -10; i -= 2) {
-            System.out.println("Четное число из диапазона от 10 до -10 : " + i);
+        for (int i = 10; i >= -10; i--) {
+            System.out.println("Вывод чисел из диапазона от 10 до -10 : " + i);
         }
         System.out.println("------------------------------------");
         System.out.println("Циклы, задача № 5");
